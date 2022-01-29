@@ -16,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/Profile_picture.jpg" width="100%">
+      <img src="WestlakeShen/WestlakeShen.github.io/Profile_picture.JPG" width="100%">
     </td>
   </tr>
 </table>
