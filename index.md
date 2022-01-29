@@ -11,9 +11,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     <td width="50%">
       <h1>Jiayong Shen</h1>
       <p><b>Undergraduate College</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：12119113@njau.edu.cn</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>College of Plant Protection,Nanjing Agricultural University</b></p>
+      <p><b>Email：12119113@njau.edu.cn</b></p>
+      <p><b>Address：Nanjing Agricultural University, Xuanwu District, Nanjing, Jiangsu Province</b></p>
     </td>
     <td width="25%">
       <img src="/Profile_picture.JPG" width="75%">
