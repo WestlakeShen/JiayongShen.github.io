@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>Jiayong Shen</h1>
       <p><b>Undergraduate College</b></p>
       <p><b>××大学××学院</b></p>
@@ -16,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/Profile_picture.JPG" width="100%">
+      <img src="/Profile_picture.JPG" width="75%">
     </td>
   </tr>
 </table>
