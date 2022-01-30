@@ -15,13 +15,13 @@
 </table>
 
 ## Education
-2019.09- Present                              Nanjing Agricultural University
+2019.9 - Present                              Nanjing Agricultural University
+
+2021.1 -2021.2 UCLA Extension Data Science Fundamentals and City University of Macau（Jiangsu Provincice Government Scholarship Program of Overseas Studies for Undergraduates）
+
+2021.8 - 2021.8   KNU Online Summer School
 
 2021.7- 2021.7 International Education and Cross-cultural Communication 
-
-2021.8- 2021.8   KNU Online Summer School
-
-2021.1-2021.2 UCLA Extension Data Science Fundamentals and City University of Macau（Jiangsu Provincice Government Scholarship Program of Overseas Studies for Undergraduates）
 
 Major: Plant Protection&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  GPA: 4/109&emsp;&emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;    English:  CET-6 
 
