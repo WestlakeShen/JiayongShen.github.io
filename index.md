@@ -27,4 +27,5 @@ Major: Plant Protection&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &em
 
 Elective courses: Bioinformatics(97) Molecular Biology of Plant Pest(96)  Agricultural Information Technology(95) Python Progranming Il(91)
 
+## Research Experiences
 
