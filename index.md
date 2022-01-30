@@ -1,11 +1,3 @@
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/WestlakeShen/WestlakeShen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 <table border="0">
   <tr>
     <td width="50%">
@@ -13,6 +5,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       <p><b>Undergraduate College</b></p>
       <p><b>College of Plant Protection,Nanjing Agricultural University</b></p>
       <p><b>Email：12119113@njau.edu.cn</b></p>
+      <p><b>Phonenumber：+86“” 17767128839</b></p>
       <p><b>Address：Nanjing Agricultural University, Xuanwu District, Nanjing, Jiangsu Province</b></p>
     </td>
     <td width="25%">
@@ -21,34 +14,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   </tr>
 </table>
 
-### Markdown
+## Education
+2019.09- Present                              Nanjing Agricultural University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2021.7- 2021.7 International Education and Cross-cultural Communication 
 
-```markdown
-Syntax highlighted code block
+2021.8- 2021.8   KNU Online Summer School
 
-# Header 1
-## Header 2
-### Header 3
+2021.1-2021.2 UCLA Extension Data Science Fundamentals and City University of Macau（Jiangsu Provincice Government Scholarship Program of Overseas Studies for Undergraduates）
 
-- Bulleted
-- List
+Major: Plant Protection
 
-1. Numbered
-2. List
-```
-**Bold** and _Italic_ and `Code` text
+GPA: 4/109
 
-[Link](url) and ![Image](src)
+English:  CET-6 (460)
+
+Elective courses: Bioinformatics(97) Molecular Biology of Plant Pest(96)  Agricultural Information Technology(95) Python Progranming Il(91)
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WestlakeShen/WestlakeShen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
