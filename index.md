@@ -23,7 +23,7 @@
 
 2021.7- 2021.7 International Education and Cross-cultural Communication 
 
-Major: Plant Protection&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  GPA: 4/109&emsp;&emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;    English:  CET-6 
+Major: Plant Protection&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  GPA: 4/109&emsp;&emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;    English:  CET-6 
 
 Elective courses: Bioinformatics(97) Molecular Biology of Plant Pest(96)  Agricultural Information Technology(95) Python Progranming Il(91)
 
