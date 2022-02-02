@@ -2,7 +2,7 @@
   <tr>
     <td width="50%">
       <h1>Jiayong Shen</h1>
-      <p><b>Undergraduate College</b></p>
+      <p><b>Undergraduate </b></p>
       <p><b>College of Plant Protection,Nanjing Agricultural University</b></p>
       <p><b>Email：12119113@njau.edu.cn</b></p>
       <p><b>Phonenumber：+86 17767128839</b></p>
