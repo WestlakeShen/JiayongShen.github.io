@@ -37,7 +37,7 @@ National Student Research Training Program  "Organic Planting System"  &emsp;(Re
 RB抗病基因研究
 
 ### Research Achievements
-1.
+1.python &emsp; numpy &emsp; panda &emsp;tkinter &emsp; biopython
 
 2.
 
