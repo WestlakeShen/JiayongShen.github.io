@@ -128,6 +128,8 @@ GPA: 4/109 （单学期GPA达 4.35/4.5）&emsp;&emsp;  &emsp;  &emsp;   英语: 
 
 9.Serap Aksoy院士 Prospects for Elimination of African trypanosomiasis:  A role for Vector Control
 
+10.周万雷教授 信息安全技术前沿
+
 ## 入校以来所获荣誉
 
 2021.10 国家奖学金
