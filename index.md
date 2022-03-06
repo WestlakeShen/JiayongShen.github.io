@@ -32,13 +32,11 @@ GPA: 4/109 （单学期GPA达 4.35/4.5）&emsp;&emsp;  &emsp;  &emsp;   英语: 
 2020.9 - 至今 &emsp;&emsp; 作物疫病基因组学实验室 &emsp; (导师：董莎萌)&emsp; 马铃薯广谱抗病基因RB的作用机制及应用
 
 ### 学术技能
-1.Python——Pandas、Numpy、Tkinter、PyQt5、Biopython等多种包的使用，能基于Tkinter以及PyQt5进行简单的GUI设计
+1.Python—pandas、numpy、tkinter、PyQt5、Biopython等多种包的使用，申请软件著作权一项
 
-2.R——ggplot2、agricolae、wesanderson等多种包的使用，计算机三级（网络技术）
+2.R—ggplot2包的使用，计算机三级（网络技术）
 
-3.核酸基本操作技术：琼脂糖凝胶电泳、PCR、重叠PCR（Overlap）、qPCR、质粒酶切与构建（GFP、RFP及10xmyc表达载体）、大肠杆菌转化
-
-农杆菌转化、马铃薯转化、致病疫霉转化、RNA提取、cDNA合成、荧光显微镜使用，共聚焦显微镜使用
+3.核酸基本操作：琼脂糖凝胶电泳、PCR、重叠PCR（Overlap）、qPCR、质粒酶切与构建（GFP、RFP及10xmyc表达载体）、大肠杆菌转化农杆菌转化、马铃薯转化、致病疫霉转化、RNA提取、cDNA合成、荧光显微镜使用，共聚焦显微镜使用
 
 4.蛋白基本操作： 农杆菌浸润法、聚丙烯酰胺凝胶电泳、考马斯亮蓝染色法、WesternBlot
 
