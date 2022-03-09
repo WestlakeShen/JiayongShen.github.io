@@ -15,11 +15,11 @@
 </table>
 
 ## 教育经历
-2019.9 - 至今&emsp;南京农业大学植物保护学院
+2019.9 - 至今&emsp;&emsp;南京农业大学植物保护学院
 
 2021.1 - 2021.2 &emsp;江苏高校学生境外学习政府奖学金项目——加州大学洛杉矶分校数据科学（UCLA）
 
-2021.7- 2021.7 国际跨文化交流课程&emsp; &emsp;  2021.8 - 2021.8   韩国庆北大学暑期项目
+2021.7- 2021.7&emsp;国际跨文化交流课程&emsp; &emsp;  2021.8 - 2021.8&emsp;韩国庆北大学暑期项目
 
 GPA: 4/109 （单学期GPA达 4.35/4.5）&emsp;&emsp;  &emsp;  &emsp;   英语:  CET-6 
 
@@ -29,20 +29,21 @@ GPA: 4/109 （单学期GPA达 4.35/4.5）&emsp;&emsp;  &emsp;  &emsp;   英语: 
 ### 实验室经历
 2020.6 - 2021.6 &emsp;&emsp; 生物农药及绿色植保实验室 &emsp;(导师：郭坚华)&emsp; 国家级大学生创新创业项目——瓜稻虾菇有机种植体系 &emsp;(经费：2万元)
 
-2020.9 - 至今 &emsp;&emsp; 作物疫病基因组学实验室 &emsp; (导师：董莎萌)&emsp; 马铃薯广谱抗病基因RB的作用机制及应用
+2020.9 - 至今 &emsp;&emsp; 作物疫病基因组学实验室 &emsp; (导师：董莎萌(长江学者岗位特聘教授))&emsp; 马铃薯广谱抗病基因RB的作用机制及应用
 
 ### 学术技能
-1.Python—pandas、numpy、tkinter、PyQt5、Biopython等多种包的使用，申请软件著作权一项
 
-2.R—ggplot2包的使用，计算机三级（网络技术）
+1.核酸基本操作：琼脂糖凝胶电泳、PCR、重叠PCR（Overlap）、qPCR、质粒酶切与构建表达载体、大肠杆菌转化农杆菌转化、马铃薯转化、致病疫霉转化、RNA提取、cDNA合成、荧光显微镜使用，共聚焦显微镜使用
 
-3.核酸基本操作：琼脂糖凝胶电泳、PCR、重叠PCR（Overlap）、qPCR、质粒酶切与构建（GFP、RFP及10xmyc表达载体）、大肠杆菌转化农杆菌转化、马铃薯转化、致病疫霉转化、RNA提取、cDNA合成、荧光显微镜使用，共聚焦显微镜使用
+2.蛋白基本操作： 农杆菌浸润法、聚丙烯酰胺凝胶电泳、考马斯亮蓝染色法、WesternBlot
 
-4.蛋白基本操作： 农杆菌浸润法、聚丙烯酰胺凝胶电泳、考马斯亮蓝染色法、WesternBlot
+3.Python—pandas、numpy、tkinter、PyQt5、Biopython，申请软件著作权一项
+
+4.R—ggplot2
 
 ### 讲座经历
 
-1.西湖大学湖心讲堂 有幸向施一公院士、李菂教授及张双南教授提问并得到回答
+1.西湖大学湖心讲堂 有幸向施一公院士、李菂教授及张双南教授提问
 
 2.第六届植物-生物互作国际会议
 
@@ -54,13 +55,11 @@ GPA: 4/109 （单学期GPA达 4.35/4.5）&emsp;&emsp;  &emsp;  &emsp;   英语: 
 
 6.柴继杰教授 Plant NLR Resistosomes 
 
-7.陈玲玲教授 Processing, conformation and function of circular and long ncRNAs
+7.戚益军教授 Small RNA，No Small Feat 2020
 
-8.戚益军教授 Small RNA，No Small Feat 2020
+8.Serap Aksoy院士 Prospects for Elimination of African trypanosomiasis:  A role for Vector Control
 
-9.Serap Aksoy院士 Prospects for Elimination of African trypanosomiasis:  A role for Vector Control
-
-10.周万雷教授 信息安全技术前沿
+9.周万雷教授 信息安全技术前沿
 
 ## 入校以来所获荣誉
 
