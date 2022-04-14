@@ -40,7 +40,7 @@ GPA: 3.82/4.5 (4/109) （单学期GPA达 4.35/4.5）&emsp;&emsp;  &emsp;  &emsp;
 
 4.R—ggplot2
 
-5.HTML 网页制作——植物病虫害数据库，作物疫病基因组学实验室网页及个人网页（www.shen-lab.com）
+5.HTML 网页制作——植物病虫害数据库及个人网页（www.shen-lab.com）
 
 ### 讲座经历
 
