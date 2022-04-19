@@ -37,11 +37,9 @@ GPA: 3.82/4.5 (4/109) （单学期GPA达 4.35/4.5）&emsp;&emsp;  &emsp;  &emsp;
 
 2.蛋白基本操作： 农杆菌浸润法、聚丙烯酰胺凝胶电泳、考马斯亮蓝染色法、WesternBlot、Co-IP
 
-3.Python—pandas、numpy、tkinter、PyQt5、Biopython，申请软件著作权一项
+3.Python—pandas、numpy、tkinter、PyQt5、Biopython，申请软件著作权一项 Linux基本操作
 
-4.Linux基本操作
-
-5.HTML+CSS 网页制作——植物病虫害数据库与个人网页（www.shen-lab.com）
+4.HTML+CSS 网页制作——植物病虫害数据库与个人网页（www.shen-lab.com）
 
 ### 讲座经历
 
