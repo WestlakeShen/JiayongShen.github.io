@@ -33,9 +33,9 @@ GPA: 3.82/4.5 (4/109) （单学期GPA达 4.35/4.5）&emsp;&emsp;  &emsp;  &emsp;
 
 ### 实验技能
 
-1.核酸基本操作：琼脂糖凝胶电泳、PCR、重叠PCR（Overlap PCR）、RT-PCR、质粒酶切与表达载体构建、大肠杆菌转化、农杆菌转化、马铃薯转化、致病疫霉转化、RNA提取、cDNA合成、Luc报告系统测定
+1.核酸基本操作：琼脂糖凝胶电泳、PCR、重叠PCR（Overlap PCR）、RT-PCR、质粒酶切与表达载体构建、大肠杆菌转化、农杆菌转化、马铃薯转化、致病疫霉转化、RNA提取、cDNA合成、Luc荧光检测
 
-2.蛋白基本操作： 农杆菌浸润法、聚丙烯酰胺凝胶电泳、考马斯亮蓝染色法、WesternBlot、Co-IP、BiFC
+2.蛋白基本操作： 农杆菌浸润法、聚丙烯酰胺凝胶电泳、考马斯亮蓝染色法、Western blot、Co-IP、BiFC
 
 3.Python—pandas、numpy、tkinter、PyQt5、Biopython，申请软件著作权一项 Linux基本操作
 
