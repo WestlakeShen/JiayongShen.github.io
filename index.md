@@ -29,15 +29,15 @@ GPA: 3.82/4.5 (4/109) （单学期GPA达 4.35/4.5）&emsp;&emsp;  &emsp;  &emsp;
 ### 实验室经历
 2020.6 - 2021.6 &emsp;&emsp; 生物农药及绿色植保实验室 &emsp;(导师：郭坚华)&emsp; 国家级大学生创新创业项目——瓜稻虾菇有机种植体系 &emsp;
 
-2021.1至今 &emsp;&emsp; 作物疫病基因组学实验室 &emsp; (导师：董莎萌)&emsp; 马铃薯抗病基因机理研究
+2021.1至今 &emsp;&emsp; 作物疫病基因组学实验室 &emsp; (导师：董莎萌)&emsp; 马铃薯抗病基因的抗性机制
 
 ### 实验技能
 
-1.核酸基本操作：琼脂糖凝胶电泳、PCR、重叠PCR（Overlap PCR）、RT-PCR、质粒酶切与表达载体构建、大肠杆菌转化、农杆菌转化、马铃薯转化、致病疫霉转化、RNA提取、cDNA合成、Luc荧光检测
+1.核酸基本操作：琼脂糖凝胶电泳、PCR、重叠PCR（Overlap PCR）、RT-PCR、质粒酶切与表达载体构建、大肠杆菌转化、农杆菌转化、马铃薯转化、RNA提取、cDNA合成、Luc荧光检测
 
-2.蛋白基本操作： 农杆菌浸润法、聚丙烯酰胺凝胶电泳、考马斯亮蓝染色法、Western blot、Co-IP、BiFC
+2.蛋白基本操作： 农杆菌浸润法、聚丙烯酰胺凝胶电泳、Western blot、免疫共沉淀（Co-IP）
 
-3.Python—pandas、numpy、tkinter、PyQt5、Biopython，申请软件著作权一项 Linux基本操作
+3.Python—tkinter、PyQt5、Biopython，申请软件著作权一项 Linux基本操作
 
 4.HTML+CSS 网页制作——个人网页（www.shen-lab.com）
 
